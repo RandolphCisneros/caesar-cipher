@@ -51,10 +51,11 @@ class CaesarCipher
     end   
 end
 
-c = CaesarCipher.new("A", 1)
-c = CaesarCipher.new("Aaa", 1)
-c = CaesarCipher.new("Hello World!", 5)
-c = CaesarCipher.new("Mjqqt, Btwqi!", -5)
-c = CaesarCipher.new("Z", 1)
-c = CaesarCipher.new("Hello World!", 75)
-c = CaesarCipher.new("Hello World!", -29)
+
+#c = CaesarCipher.new("A", 1)
+#c = CaesarCipher.new("Aaa", 1)
+#c = CaesarCipher.new("Hello World!", 5)
+#c = CaesarCipher.new("Mjqqt, Btwqi!", -5)
+#c = CaesarCipher.new("Z", 1)
+#c = CaesarCipher.new("Hello World!", 75)
+#c = CaesarCipher.new("Hello World!", -29)
